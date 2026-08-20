@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zeeshanuiuxdesigner.github.io/notes-wq51ko/sitemap.xml
